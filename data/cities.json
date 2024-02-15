@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "0099",
+      "cityName": "Middelfart",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-01-26T07:47:09.899Z",
+      "notes": "",
+      "position": {
+        "lat": "55.4508356395652",
+        "lng": "9.975585937500002"
+      }
+    },
+    {
+      "id": "e89b",
+      "cityName": "Iringa",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-01-26T07:47:53.809Z",
+      "notes": "",
+      "position": {
+        "lat": "-7.1108558556731625",
+        "lng": "35.72753906250001"
+      }
+    },
+    {
+      "id": "b76f",
+      "cityName": "Homa Bay",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-01-26T09:16:53.775Z",
+      "notes": "",
+      "position": {
+        "lat": "-0.3150154348660221",
+        "lng": "34.71679687500001"
+      }
+    },
+    {
+      "id": "0860",
+      "cityName": "Ligist",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-01-26T09:30:21.647Z",
+      "notes": "",
+      "position": {
+        "lat": "47.00306782675742",
+        "lng": "15.205078125000002"
+      }
+    },
+    {
+      "id": "046c",
+      "cityName": "Juba",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-01-29T12:23:00.725Z",
+      "notes": "",
+      "position": {
+        "lat": "4.73266364325429",
+        "lng": "31.736566743497413"
+      }
+    },
+    {
+      "id": "e18b",
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-01-29T12:23:32.158Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "-1.2815888853344595",
+        "lng": "36.83348986184614"
+      }
+    }
+  ]
+}
